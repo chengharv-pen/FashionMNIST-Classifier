@@ -1,1 +1,1 @@
-# Finger Count Classifier
+# FashionMNIST Classifier
